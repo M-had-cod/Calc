@@ -1,0 +1,14 @@
+{
+  "name": "حاسبتي",
+  "short_name": "حاسبتي",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d63384",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
